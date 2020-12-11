@@ -1,3 +1,11 @@
+# To-Do List
+Simple todo list made for practice
+## Features
+- Add a to-do
+- Mark a to-do as complete
+- Delete a to-do
+- The list is saved in local storage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
